@@ -1,6 +1,8 @@
 # avalanchesass_utility_offset
 Offset classes.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/object-grid
+
 ## Install
 ```
 npm install avalanchesass_utility_offset --save
